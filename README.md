@@ -1,2 +1,2 @@
 # OptionPricing
-C# applications for pricing of options such as calls and puts
+C# applications for pricing of calls and puts options
